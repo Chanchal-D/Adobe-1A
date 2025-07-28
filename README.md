@@ -1,3 +1,5 @@
+# Chanchal-1b
+
 # Adobe India Hackathon 2025 - Round 1A Solution
 ## "Connecting the Dots Through Docs"
 
@@ -70,7 +72,7 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --networ
 ├── README.md
 ├── requirements.txt
 ├── src/
-│   └── simple_format_solution.py
+│   └── main.py
 ├── input/          # Place PDF files here
 └── output/         # Generated JSON files
 ```

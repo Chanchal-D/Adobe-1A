@@ -1,0 +1,16 @@
+# Docker ignore file
+.git
+.gitignore
+README.md
+build.ps1
+*.md
+input/
+output/
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.pytest_cache/
